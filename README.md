@@ -422,11 +422,11 @@ This project is part of the Zakat Calculator Knowledge-Based System.
 
 ## 👨‍💻 Contributers
 
-**Mouhamad Nour Zreak**
-**Mohamad Yasen**
-**Mouhamad Obada Al-Masri**
-**Abd-Al-Rhman Al-Hamod**
-**Abd-Al-Hafez Al-Kurdi**
+- **Mouhamad Nour Zreak**
+- **Mohamad Yasen**
+- **Mouhamad Obada Al-Masri**
+- **Abd-Al-Rhman Al-Hamod**
+- **Abd-Al-Hafez Al-Kurdi**
 
 
 ---
